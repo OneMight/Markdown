@@ -64,3 +64,11 @@ function ClearEntry(){
 }
 ```
 *This is example from my project "Calculator". This code describes the process of clearing the calculator screen*
+
+## Contacts
+
+* [Vk](https://vk.com/gerineq)
+* Phone: +375257325957
+* Gmail: dimamirankov63@gmail.com
+* Mail: dima.mirankov@mail.ru
+* [Telegram](https://t.me/Gerineq) 
