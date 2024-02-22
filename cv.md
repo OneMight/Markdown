@@ -2,7 +2,7 @@
 ## Some informations about me
 Hello. My name is Dmitry Mirankov. I am study in the Belarussian-Russian university
 
-![myphoto](https://vk.com/gerineq?z=photo208470762_457252132%2Fphoto_feed208470762)
+
 ## My stronge and weak sides
 First of all i want to tell about stronge sides
 1. Adaptability
