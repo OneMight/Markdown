@@ -21,3 +21,46 @@ Now i tell about my weak sides
 * Studyed C#
 * English level : B1
 * Create my calculator on js
+
+## Passed courses and job expirience
+* [My calculator](https://codepen.io/Gerinq_/pen/XWYyxLE)
+* Trying to end RS-school stage 1, but cant do it
+* Job expirience: this CV
+
+## Code examples
+For C#
+```
+public static void WritingBilets
+(string file,ref int coun) 
+{
+   var sr = new StreamReader(file);
+   for (int i = 0; i > coun; i++) 
+   { 
+      string[] it = sr.ReadLine().Split(";"); 
+      Console.WriteLine("{1}
+      {0} Свободных билетов - {2}",
+      it[0], i + 1, it[1]); 
+   } 
+   sr.Close(); 
+}
+```
+*This is example from my course project. The code describes how information is written into text documents*
+
+For JS
+```
+function ClearEntry(){
+   if(a!=='' && sign==='' && b===''){ 
+   a=''; 
+   out.textContent = '0'; 
+   } 
+   if(a!==''&& sign!==''&& b===''){ 
+   sign = ''; 
+   out.textContent = a;
+   } 
+   if(a!==''&& sign!==''&& b!==''){
+   b=''; 
+   out.textContent = sign; 
+   } 
+}
+```
+*This is example from my project "Calculator". This code describes the process of clearing the calculator screen*
