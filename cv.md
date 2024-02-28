@@ -1,4 +1,5 @@
-# My CV 
+# My CV
+![imagen](photo.jpg) 
 ## Some informations about me
 Hello. My name is Dmitry Mirankov. I am study in the Belarussian-Russian university
 
